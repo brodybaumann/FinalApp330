@@ -426,8 +426,8 @@ TICKER_SYMBOLS = [
     "AAPL", "MSFT", "NVDA", "AMZN", "GOOGL", "META", "TSLA", "BRK-B",
     "JPM", "V", "UNH", "XOM", "JNJ", "WMT", "MA", "PG", "HD",
     "CVX", "MRK", "LLY", "ABBV", "PEP", "KO", "AVGO", "COST",
-    "MCD", "TMO", "ACN", "CSCO", "CRM", "BAC", "WFC", "GS", "MS",
-    "DIA", "VST", "JNJ", "BMY", "AVGO", "INTC", "NFLX", "CRM", "SBUX",
+    "MCD", "TMO", "ACN", "CSCO","BAC", "WFC", "GS", "MS",
+    "DIA", "VST", "BMY", "INTC", "NFLX", "CRM", "SBUX",
     "MRSH", "HIMS", "PSX", "DASH", "HOOD", "RSG", "FAST", "COIN", "GRMN",
     "FIS", "DLTR", "HPQ", "TXT", "BBY", "FOXA", "NCLH", "DPZ", "WYNN"
 ]
