@@ -20,7 +20,7 @@ import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-
+import datetime 
 
 # ─── 2. THEME & STYLING ────────────────────────────────────────────────────────
 C_BG        = "#0A0A0A"
